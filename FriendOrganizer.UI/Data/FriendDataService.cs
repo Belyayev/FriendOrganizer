@@ -1,16 +1,13 @@
 ﻿using FriendOrganizer.Model;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace FriendOrganizer.UI.Data
 {
-    public class FriendDataService
+    public class FriendDataService : IFriendDataService
     {
         public IEnumerable<Friend> GetAll()
         {
+            // TODO: Load data from the real database
             yield return new Friend { FirstName = "Mike", LastName = "Belyayev" };
             yield return new Friend { FirstName = "Felix", LastName = "Belyayev" };
             yield return new Friend { FirstName = "Kate", LastName = "Belyayeva" };
