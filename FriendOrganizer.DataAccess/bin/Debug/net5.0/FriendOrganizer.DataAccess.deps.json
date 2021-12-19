@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FriendOrganizer.DataAccess/1.0.0": {
+        "dependencies": {
+          "FriendOrganizer.Model": "1.0.0"
+        },
+        "runtime": {
+          "FriendOrganizer.DataAccess.dll": {}
+        }
+      },
+      "FriendOrganizer.Model/1.0.0": {
+        "runtime": {
+          "FriendOrganizer.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FriendOrganizer.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FriendOrganizer.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

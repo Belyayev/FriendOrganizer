@@ -1,0 +1,15 @@
+C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\net5.0\FriendOrganizer.DataAccess.deps.json
+C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\net5.0\FriendOrganizer.DataAccess.dll
+C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\net5.0\ref\FriendOrganizer.DataAccess.dll
+C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\net5.0\FriendOrganizer.DataAccess.pdb
+C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\net5.0\FriendOrganizer.Model.dll
+C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\net5.0\FriendOrganizer.Model.pdb
+C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\net5.0\FriendOrganizer.DataAccess.csproj.AssemblyReference.cache
+C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\net5.0\FriendOrganizer.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\net5.0\FriendOrganizer.DataAccess.AssemblyInfoInputs.cache
+C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\net5.0\FriendOrganizer.DataAccess.AssemblyInfo.cs
+C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\net5.0\FriendOrganizer.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\net5.0\FriendOrganizer.DataAccess.csproj.CopyComplete
+C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\net5.0\FriendOrganizer.DataAccess.dll
+C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\net5.0\ref\FriendOrganizer.DataAccess.dll
+C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\net5.0\FriendOrganizer.DataAccess.pdb
