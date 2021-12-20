@@ -8,7 +8,7 @@ namespace FriendOrganizer.UI.Data
         public IEnumerable<Friend> GetAll()
         {
             // TODO: Load data from the real database
-            yield return new Friend { FirstName = "Mike", LastName = "Belyayev" };
+            yield return new Friend { FirstName = "Mike", LastName = "Belyayev", Email="4xgood@gmail.com" };
             yield return new Friend { FirstName = "Felix", LastName = "Belyayev" };
             yield return new Friend { FirstName = "Kate", LastName = "Belyayeva" };
             yield return new Friend { FirstName = "Daniel", LastName = "Belyayev" };
