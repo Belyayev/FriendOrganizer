@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "qomhdYVOeyVY5WyV8RGMDlFToXWUlkJkhW6b76CpFr6fZoevxFaJEq6uUNkoLNWZb9K23Nm+5scgSgSaso/0pA==",
+  "dgSpecHash": "E4/XVJnNI351sLQ/Ji3XypD7Be+LPvW1k27LC8yUL7HCXmf9dn9dLpDr61o5vKkld9e0FP/te3lB0A8Idvogqw==",
   "success": true,
   "projectFilePath": "C:\\Users\\4xgoo\\source\\repos\\FriendOrganizer\\FriendOrganizer.UI\\FriendOrganizer.UI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\4xgoo\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\4xgoo\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
   "logs": []
 }

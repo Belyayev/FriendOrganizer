@@ -25,3 +25,4 @@ C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.UI\obj\Debug\net5.0-
 C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.UI\obj\Debug\net5.0-windows\ref\FriendOrganizer.UI.dll
 C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.UI\obj\Debug\net5.0-windows\FriendOrganizer.UI.pdb
 C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.UI\obj\Debug\net5.0-windows\FriendOrganizer.UI.genruntimeconfig.cache
+C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.UI\bin\Debug\net5.0-windows\Autofac.dll

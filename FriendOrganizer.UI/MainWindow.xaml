@@ -13,7 +13,8 @@
         </Grid.ColumnDefinitions>
         <ListView ItemsSource="{Binding Friends}"
                   SelectedItem="{Binding SelectedFriend, Mode=TwoWay}"
-                  DisplayMemberPath="FirstName"/>
+                  DisplayMemberPath="FirstName
+"/>
 
         <Grid Grid.Column="1">
             <Grid.RowDefinitions>
