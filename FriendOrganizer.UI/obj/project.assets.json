@@ -1126,25 +1126,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\4xgoo\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\MBELYAY\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\4xgoo\\source\\repos\\FriendOrganizer\\FriendOrganizer.UI\\FriendOrganizer.UI.csproj",
+      "projectUniqueName": "C:\\Users\\MBELYAY\\source\\repos\\FriendOrganizer\\FriendOrganizer.UI\\FriendOrganizer.UI.csproj",
       "projectName": "FriendOrganizer.UI",
-      "projectPath": "C:\\Users\\4xgoo\\source\\repos\\FriendOrganizer\\FriendOrganizer.UI\\FriendOrganizer.UI.csproj",
-      "packagesPath": "C:\\Users\\4xgoo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\4xgoo\\source\\repos\\FriendOrganizer\\FriendOrganizer.UI\\obj\\",
+      "projectPath": "C:\\Users\\MBELYAY\\source\\repos\\FriendOrganizer\\FriendOrganizer.UI\\FriendOrganizer.UI.csproj",
+      "packagesPath": "C:\\Users\\MBELYAY\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MBELYAY\\source\\repos\\FriendOrganizer\\FriendOrganizer.UI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\4xgoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MBELYAY\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1159,11 +1157,11 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\4xgoo\\source\\repos\\FriendOrganizer\\FriendOrganizer.DataAccess\\FriendOrganizer.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\4xgoo\\source\\repos\\FriendOrganizer\\FriendOrganizer.DataAccess\\FriendOrganizer.DataAccess.csproj"
+            "C:\\Users\\MBELYAY\\source\\repos\\FriendOrganizer\\FriendOrganizer.DataAccess\\FriendOrganizer.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\MBELYAY\\source\\repos\\FriendOrganizer\\FriendOrganizer.DataAccess\\FriendOrganizer.DataAccess.csproj"
             },
-            "C:\\Users\\4xgoo\\source\\repos\\FriendOrganizer\\FriendOrganizer.Model\\FriendOrganizer.Model.csproj": {
-              "projectPath": "C:\\Users\\4xgoo\\source\\repos\\FriendOrganizer\\FriendOrganizer.Model\\FriendOrganizer.Model.csproj"
+            "C:\\Users\\MBELYAY\\source\\repos\\FriendOrganizer\\FriendOrganizer.Model\\FriendOrganizer.Model.csproj": {
+              "projectPath": "C:\\Users\\MBELYAY\\source\\repos\\FriendOrganizer\\FriendOrganizer.Model\\FriendOrganizer.Model.csproj"
             }
           }
         }

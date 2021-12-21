@@ -10,3 +10,15 @@ C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.Model\obj\Debug\net5
 C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.Model\obj\Debug\net5.0\FriendOrganizer.Model.dll
 C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.Model\obj\Debug\net5.0\ref\FriendOrganizer.Model.dll
 C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.Model\obj\Debug\net5.0\FriendOrganizer.Model.pdb
+C:\Users\MBELYAY\source\repos\FriendOrganizer\FriendOrganizer.Model\bin\Debug\net5.0\FriendOrganizer.Model.deps.json
+C:\Users\MBELYAY\source\repos\FriendOrganizer\FriendOrganizer.Model\bin\Debug\net5.0\FriendOrganizer.Model.dll
+C:\Users\MBELYAY\source\repos\FriendOrganizer\FriendOrganizer.Model\bin\Debug\net5.0\ref\FriendOrganizer.Model.dll
+C:\Users\MBELYAY\source\repos\FriendOrganizer\FriendOrganizer.Model\bin\Debug\net5.0\FriendOrganizer.Model.pdb
+C:\Users\MBELYAY\source\repos\FriendOrganizer\FriendOrganizer.Model\obj\Debug\net5.0\FriendOrganizer.Model.csproj.AssemblyReference.cache
+C:\Users\MBELYAY\source\repos\FriendOrganizer\FriendOrganizer.Model\obj\Debug\net5.0\FriendOrganizer.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MBELYAY\source\repos\FriendOrganizer\FriendOrganizer.Model\obj\Debug\net5.0\FriendOrganizer.Model.AssemblyInfoInputs.cache
+C:\Users\MBELYAY\source\repos\FriendOrganizer\FriendOrganizer.Model\obj\Debug\net5.0\FriendOrganizer.Model.AssemblyInfo.cs
+C:\Users\MBELYAY\source\repos\FriendOrganizer\FriendOrganizer.Model\obj\Debug\net5.0\FriendOrganizer.Model.csproj.CoreCompileInputs.cache
+C:\Users\MBELYAY\source\repos\FriendOrganizer\FriendOrganizer.Model\obj\Debug\net5.0\FriendOrganizer.Model.dll
+C:\Users\MBELYAY\source\repos\FriendOrganizer\FriendOrganizer.Model\obj\Debug\net5.0\ref\FriendOrganizer.Model.dll
+C:\Users\MBELYAY\source\repos\FriendOrganizer\FriendOrganizer.Model\obj\Debug\net5.0\FriendOrganizer.Model.pdb
