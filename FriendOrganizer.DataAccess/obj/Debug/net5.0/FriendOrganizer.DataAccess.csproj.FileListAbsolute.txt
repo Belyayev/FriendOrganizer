@@ -13,3 +13,7 @@ C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug
 C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\net5.0\FriendOrganizer.DataAccess.dll
 C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\net5.0\ref\FriendOrganizer.DataAccess.dll
 C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\net5.0\FriendOrganizer.DataAccess.pdb
+C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\net5.0\FriendOrganizer.DataAccess.dll.config
+C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\net5.0\FriendOrganizer.DataAccess.runtimeconfig.json
+C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\net5.0\FriendOrganizer.DataAccess.runtimeconfig.dev.json
+C:\Users\4xgoo\source\repos\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\net5.0\FriendOrganizer.DataAccess.genruntimeconfig.cache
